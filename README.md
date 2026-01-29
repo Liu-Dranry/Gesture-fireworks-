@@ -1,6 +1,7 @@
 # 手势烟花
 
 一个基于Web技术的交互式手势烟花应用，通过摄像头实时识别用户手势，实现粒子跟随和烟花绽放效果。
+A web-based interactive gesture fireworks application that recognizes user gestures in real-time through a camera, achieving particle tracking and fireworks display effects.
 
 ## 功能特性
 
